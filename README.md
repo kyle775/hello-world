@@ -7,4 +7,4 @@ My first repository
 
 This is a change from vi on my local machine, after i edit this I will push it.
 
-for some reason it didnt push, making another change.	
+making another change.	
